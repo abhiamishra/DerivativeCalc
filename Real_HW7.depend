@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1604887955 source:d:\utd\freshman2020\cs1337\cs1337programming\homework\real_hw7\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"Node.h"
+	"LList.h"
+
+1604889340 source:d:\utd\freshman2020\cs1337\cs1337programming\homework\real_hw7\src\llist.cpp
+	"LList.h"
+
+1604887562 d:\utd\freshman2020\cs1337\cs1337programming\homework\real_hw7\include\llist.h
+	"Node.h"
+	<iostream>
+
+1604889482 source:d:\utd\freshman2020\cs1337\cs1337programming\homework\real_hw7\src\node.cpp
+	"Node.h"
+	<iostream>
+	<fstream>
+
+1604887899 d:\utd\freshman2020\cs1337\cs1337programming\homework\real_hw7\include\node.h
+	<string>
+	<ostream>
+	<iostream>
+
+1605849800 source:d:\utd\freshman2020\cs1337\cs1337programming\homework\project4\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<math.h>
+	"Node.h"
+	"LList.h"
+
+1605849397 d:\utd\freshman2020\cs1337\cs1337programming\homework\project4\include\node.h
+	<string>
+	<ostream>
+	<iostream>
+
+1605849390 d:\utd\freshman2020\cs1337\cs1337programming\homework\project4\include\llist.h
+	"Node.h"
+	<iostream>
+
+1605849390 source:d:\utd\freshman2020\cs1337\cs1337programming\homework\project4\src\llist.cpp
+	"LList.h"
+	"Node.h"
+
+1605849390 source:d:\utd\freshman2020\cs1337\cs1337programming\homework\project4\src\node.cpp
+	"Node.h"
+	<iostream>
+	<fstream>
+
